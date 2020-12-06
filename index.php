@@ -6,7 +6,8 @@ $host=gethostname();
 echo "Container Name : ";
 echo $host;
 ?>
-<p> Welcome to the Hell~! </p>
+  <p> Welcome to my phpserver ~!!</p>
+<p> how to change the index.php ?? </p>
 </div>
 </body>
 </html>
